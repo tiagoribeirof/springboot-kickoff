@@ -1,4 +1,4 @@
-# viplist
+# SpringBoot kickoff project
 Java project using SpringBoot and Maven.
 
 This project is for demonstrate the use of some libraries with SpringBoot.
