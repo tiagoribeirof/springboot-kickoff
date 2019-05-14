@@ -32,7 +32,7 @@ Following up the dependencies.
 ##### Library to build a non-blocking API
 - spring-boot-starter-webflux
 
-##### Library to build POJOS more simples
+##### Library to build POJOS more simples (you need to install a plugin in your ide to use lombok too)
 - lombok  
 
 ##### Libraries to create automaticly the API documentation
